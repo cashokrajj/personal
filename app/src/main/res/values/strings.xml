@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">5s</string>
+    <string name="new_game">New Game</string>
+    <string name="game_history">Game History</string>
+    <string name="add_player">Add Player</string>
+    <string name="player_name">Player Name</string>
+    <string name="start_game">Start Game</string>
+    <string name="round">Round</string>
+    <string name="score">Score</string>
+    <string name="total_score">Total Score</string>
+    <string name="target_score">Target: 240</string>
+    <string name="enter_score">Enter Score</string>
+    <string name="next_round">Next Round</string>
+    <string name="end_game">End Game</string>
+    <string name="winner">Winner</string>
+    <string name="game_summary">Game Summary</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="delete_game">Delete Game</string>
+    <string name="no_games_yet">No games yet. Start a new game!</string>
+    <string name="players">Players</string>
+    <string name="rounds">Rounds</string>
+    <string name="final_scores">Final Scores</string>
+    <string name="date">Date</string>
+    <string name="confirm_delete">Are you sure you want to delete this game?</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="ok">OK</string>
+</resources>
